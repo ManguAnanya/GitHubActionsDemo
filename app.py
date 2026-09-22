@@ -2,4 +2,4 @@ def add(a, b):
     return a + b
 
 
-print(add(50,20))
+print(add(50, 20))
